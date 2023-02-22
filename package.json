@@ -1,6 +1,6 @@
 {
   "name": "laravel-datatables-vite-bs",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Laravel DataTables with jQuery, Bootstrap 3 and Vite",
   "main": "js/index.js",
   "scripts": {
