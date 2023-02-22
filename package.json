@@ -1,0 +1,39 @@
+{
+  "name": "laravel-datatables-vite-bs",
+  "version": "0.1",
+  "description": "Laravel DataTables with jQuery, Bootstrap 3 and Vite",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RF1705/laravel-datables-vite-bs.git"
+  },
+  "keywords": [
+    "yajra",
+    "laravel",
+    "dataTables",
+    "vitejs",
+    "bootstrap",
+    "jquery"
+  ],
+  "author": {
+    "name": "Ronald Fiering",
+    "url": "https://github.com/RF1705"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RF1705/laravel-datables-vite-bs.git/issues"
+  },
+  "homepage": "https://github.com/RF1705/laravel-datables-vite-bs.git#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
+    "datatables.net": "^1.12.1",
+    "datatables.net-bs": "^1.13.2",
+    "datatables.net-buttons-bs": "^2.3.4",
+    "datatables.net-select-bs": "^1.6.0",
+    "jquery": "^3.6.1"
+  }
+}
